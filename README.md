@@ -1,5 +1,5 @@
 # Mapreduce Letter Frequency Mapper
-This is a letter frequency mapper in mapreduce. The task was to load files of books into hdfs map letters to frequency amounts in Mapreduce and produce plots using Python. The languages mapped were Norwegian, Welsh and Galician. Below are the plots produced.
+This is a letter frequency mapper in mapreduce. The task was to load files of books into HDFS and map letters to frequency amounts in Mapreduce and produce plots using Python. The languages mapped were Norwegian, Welsh and Galician. Below are the plots produced.
 
 
 ![Welsh_Letters](https://user-images.githubusercontent.com/78801723/169102055-771355ae-508c-4c36-83c6-91f7ee353400.png)
